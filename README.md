@@ -1,4 +1,4 @@
-# Economy-well-Being-Prediction-zindi.africa-
+# Economy well Being Prediction-zindi.africa
 ## 9th rank solution
 
 ### Description

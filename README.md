@@ -7,4 +7,4 @@ Granular information on economic well-being is extremely useful for governments,
 Using data from 18 different countries collected at different times, you must correctly predict the cluster-level estimated wealth measures found from surveys in 7 different countries not covered in the training data. A successful model could be useful for filling in the gaps between the more expensive surveys.
 
 ### Evaluation
-The evaluation metric for this competition is Root Mean Squared Error.
+The evaluation metric for this competition is **Root Mean Squared Error**.
